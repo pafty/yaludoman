@@ -1,7 +1,10 @@
 // ==UserScript==
 // @name         yaludoman — автокрутка Колеса призов
 // @namespace    yaludoman
-// @version      1.2
+// @version      1.3
+// @author       pafty
+// @homepageURL  https://github.com/pafty/yaludoman
+// @supportURL   https://github.com/pafty/yaludoman/issues
 // @description  Панель автокрутки на странице «Колеса призов» Яндекс Маркета
 // @match        https://market.yandex.ru/kolesoprizov*
 // @run-at       document-idle
